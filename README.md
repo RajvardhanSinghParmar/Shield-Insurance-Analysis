@@ -145,7 +145,7 @@ The page provides:
 
 This allows users to understand which channels are contributing most to customer acquisition and revenue generation.
 
-![Shield Insurance Sales Mode Analysis](Screenshots/Sales-Mode-Analysis.png)
+![Shield Insurance Sales Mode Analysis](Screenshots/Sales_Mode_Analysis.png)
 
 ---
 
