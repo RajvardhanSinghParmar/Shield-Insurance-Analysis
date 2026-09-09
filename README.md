@@ -41,6 +41,12 @@ The objective was to move from raw transactional data to a business-focused anal
 
 ---
 
+## 🔗 Live Dashboard
+
+👉 **[View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmUyZTkwNjgtY2Q4Ni00NDcyLTk0ODAtMzI2OTJkNGE0NjliIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=f4d32b6fbb3b100788bc)**
+
+---
+
 ## 🎯 Business Problem & Objectives
 
 Shield Insurance wanted to understand its customer and revenue performance and monitor how these metrics changed over time.
