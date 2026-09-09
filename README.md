@@ -99,7 +99,7 @@ It provides access to the main analytical sections:
 - Sales Mode Analysis
 - Age Group Analysis
 
-![Shield Insurance Home Page](Screenshots/Home_Page.png)
+![Shield Insurance Home Page](Dashboard_Screenshots/Home_Page.png)
 
 ---
 
@@ -120,7 +120,7 @@ The Overview page provides the main business snapshot of Shield Insurance.
 
 The page also includes a switch between **DCG (Customer)** and **DRG (Revenue)** to analyze the monthly growth trend from different perspectives.
 
-![Shield Insurance Overview](Screenshots/Overview.png)
+![Shield Insurance Overview](Dashboard_Screenshots/Overview.png)
 
 ---
 
@@ -145,7 +145,7 @@ The page provides:
 
 This allows users to understand which channels are contributing most to customer acquisition and revenue generation.
 
-![Shield Insurance Sales Mode Analysis](Screenshots/Sales_Mode_Analysis.png)
+![Shield Insurance Sales Mode Analysis](Dashboard_Screenshots/Sales_Mode_Analysis.png)
 
 ---
 
@@ -163,7 +163,7 @@ It includes:
 
 This page helps identify which customer segments have the highest customer volume and how those segments interact with policies and sales modes.
 
-![Shield Insurance Age Group Analysis](Screenshots/Age_Group_Analysis.png)
+![Shield Insurance Age Group Analysis](Dashboard_Screenshots/Age_Group_Analysis.png)
 
 ---
 
@@ -178,7 +178,7 @@ The model consists of:
 
 The model supports analysis across customers, policies, dates, revenue, settlements, cities, age groups, and sales modes.
 
-![Shield Insurance Data Model](Screenshots/Data_Model.png)
+![Shield Insurance Data Model](Dashboard_Screenshots/Data_Model.png)
 
 ---
 
