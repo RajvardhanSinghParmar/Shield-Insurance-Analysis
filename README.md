@@ -654,6 +654,8 @@ The project demonstrates the ability to move from **raw business data to a struc
 
 **This project demonstrates an end-to-end approach to turning raw insurance data into actionable business insights using Power BI. The analysis identified the key contributors to customer and revenue growth across cities, sales modes, age groups, and policies, while showcasing practical skills in data preparation, transformation, modeling, DAX, visualization, and business storytelling.**
 
+--- 
+
 # 👨‍💻 Author
 
 **Rajvardhan Singh Parmar**
