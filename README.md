@@ -9,18 +9,22 @@
 
 ---
 
-## 📊 Project Snapshot
+## 🔍 Project at a Glance
 
-| Category | Details |
-|---|---|
-| **Industry** | Insurance |
-| **Tool** | Power BI |
-| **Data Volume** | 26,841 records |
-| **Source Files** | 5 CSV files |
-| **Analysis Period** | November 2022 – April 2023 |
-| **Cities Covered** | Chennai, Delhi NCR, Hyderabad, Indore, Mumbai |
-| **Total Revenue** | ₹989M |
-| **Total Customers** | 26,841 |
+|   🏥 Domain  | 🏢 Industry | 📊 Customer Records | 📁 Source Files | 🏙️ Cities |
+| :----------: | :---------: | :--------: | :-------------: | :--------: |
+| *Healthcare* | *Insurance* |  *26,841*  |     *5 CSVs*    |     *5*    |
+
+| 💰 Revenue |   📅 Analysis Period  |  🧹 Data Preparation  | 💻 Primary Tool |
+| :--------: | :-------------------: | :-------------------: | :-------------: |
+|   *₹989M*  | *Nov 2022 – Apr 2023* | *Excel + Power Query* |    *Power BI*   |
+
+---
+
+## 🔗 Live Dashboard
+
+👉 **[View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmUyZTkwNjgtY2Q4Ni00NDcyLTk0ODAtMzI2OTJkNGE0NjliIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=f4d32b6fbb3b100788bc)**
+
 
 ---
 
@@ -43,12 +47,6 @@ The dashboard provides a centralized view of:
 - Expected settlement analysis
 
 The objective was to move from raw transactional data to a business-focused analytical solution that makes important trends easier to identify and investigate.
-
----
-
-## 🔗 Live Dashboard
-
-👉 **[View the Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmUyZTkwNjgtY2Q4Ni00NDcyLTk0ODAtMzI2OTJkNGE0NjliIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=f4d32b6fbb3b100788bc)**
 
 ---
 
@@ -659,3 +657,7 @@ The project demonstrates the ability to move from **raw business data to a struc
 | **Data Storytelling** | Turning analytical findings into clear business-focused insights |
 
 ---
+
+## ⭐ Key Takeaway
+
+**This project demonstrates an end-to-end approach to turning raw insurance data into actionable business insights using Power BI. The analysis identified the key contributors to customer and revenue growth across cities, sales modes, age groups, and policies, while showcasing practical skills in data preparation, transformation, modeling, DAX, visualization, and business storytelling.**
