@@ -1,4 +1,9 @@
-# 🛡️ Shield Insurance Analytics | Power BI
+# 🛡️ Shield Insurance Analytics
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![DAX](https://img.shields.io/badge/DAX-Analysis-blue)
+![Power Query](https://img.shields.io/badge/Power%20Query-ETL-green)
+![Excel](https://img.shields.io/badge/Excel-Data%20Preparation-brightgreen)
 
 > An interactive Power BI analytics solution built to analyze customer growth, revenue performance, sales-mode contribution, policy adoption, and customer segmentation for Shield Insurance.
 
@@ -96,7 +101,7 @@ It provides access to the main analytical sections:
 - Sales Mode Analysis
 - Age Group Analysis
 
-![Shield Insurance Home Page](images/home-page.png)
+![Shield Insurance Home Page](Screenshots/Home_Page.png)
 
 ---
 
@@ -117,7 +122,7 @@ The Overview page provides the main business snapshot of Shield Insurance.
 
 The page also includes a switch between **DCG (Customer)** and **DRG (Revenue)** to analyze the monthly growth trend from different perspectives.
 
-![Shield Insurance Overview](images/overview.png)
+![Shield Insurance Overview](Screenshots/Overview.png)
 
 ---
 
@@ -142,7 +147,7 @@ The page provides:
 
 This allows users to understand which channels are contributing most to customer acquisition and revenue generation.
 
-![Shield Insurance Sales Mode Analysis](images/sales-mode-analysis.png)
+![Shield Insurance Sales Mode Analysis](Screenshots/Sales-Mode-Analysis.png)
 
 ---
 
@@ -160,7 +165,7 @@ It includes:
 
 This page helps identify which customer segments have the highest customer volume and how those segments interact with policies and sales modes.
 
-![Shield Insurance Age Group Analysis](images/age-group-analysis.png)
+![Shield Insurance Age Group Analysis](Screenshots/Age_Group_Analysis.png)
 
 ---
 
@@ -176,7 +181,7 @@ The model consists of:
 
 The model supports analysis across customers, policies, dates, revenue, settlements, cities, age groups, and sales modes.
 
-![Shield Insurance Data Model](images/data-model.png)
+![Shield Insurance Data Model](Screenshots/Data_Model.png)
 
 ---
 
@@ -654,27 +659,3 @@ The project demonstrates the ability to move from **raw business data to a struc
 | **Data Storytelling** | Turning analytical findings into clear business-focused insights |
 
 ---
-
-# 📂 Project Structure
-
-```text
-shield-insurance-analytics/
-│
-├── README.md
-│
-├── Power BI/
-│   └── Shield Insurance.pbix
-│
-├── Dataset/
-│   ├── Dim_customer.csv
-│   ├── Dim_date.csv
-│   ├── Dim_policies.csv
-│   ├── Fact_premiums.csv
-│   └── Fact_settlements.csv
-│
-└── images/
-    ├── home-page.png
-    ├── overview.png
-    ├── sales-mode-analysis.png
-    ├── age-group-analysis.png
-    └── data-model.png
