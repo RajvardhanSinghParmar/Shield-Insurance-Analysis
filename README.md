@@ -175,7 +175,6 @@ The model consists of:
 
 - **3 Dimension Tables**
 - **2 Fact Tables**
-- **1 Key Measures Table**
 
 The model supports analysis across customers, policies, dates, revenue, settlements, cities, age groups, and sales modes.
 
@@ -524,13 +523,6 @@ DAX was used to create reusable business measures for KPI cards, growth analysis
 |---|---|
 | `Total_Revenue` | Calculates total revenue |
 | `Total_Customers` | Calculates total customer count |
-
----
-
-## Growth Measures
-
-| Measure | Purpose |
-|---|---|
 | `Daily_revenue_growth` | Measures daily revenue growth |
 | `Daily_customer_growth` | Measures daily customer growth |
 
@@ -661,3 +653,14 @@ The project demonstrates the ability to move from **raw business data to a struc
 ## ⭐ Key Takeaway
 
 **This project demonstrates an end-to-end approach to turning raw insurance data into actionable business insights using Power BI. The analysis identified the key contributors to customer and revenue growth across cities, sales modes, age groups, and policies, while showcasing practical skills in data preparation, transformation, modeling, DAX, visualization, and business storytelling.**
+
+# 👨‍💻 Author
+
+**Rajvardhan Singh Parmar**
+
+Data Analyst | Power BI | SQL | Excel | Python 
+
+• [LinkedIn](https://www.linkedin.com/in/rajvardhan-singh-parmar/) • [GitHub](https://github.com/RajvardhanSinghParmar) • [Portfolio](https://codebasics.io/portfolio/Rajvardhan-Singh-Parmar)
+
+---
+
